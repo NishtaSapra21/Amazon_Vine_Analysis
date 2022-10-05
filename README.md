@@ -31,7 +31,7 @@
 
 ## Summary
 
-   From results its obvious that around 50% of both paid and unpaid revies are of 5 star reviews. This is showing that paid and unpaid reviews are balanced, there’s no    bias toward favorable reviews. There are also very less Vine reviews compared to non-Vine reviews. 
+   From results its obvious that around 50% of both paid and unpaid revies are of 5 star reviews. This is showing that paid and unpaid reviews are balanced, there’s no    bias toward favorable reviews. Reviews seems honest and trustworthy. There are also very less Vine reviews compared to non-Vine reviews. 
 
    Also, we considered only 5-star reviews which is 50% of total reviews, we can perform same operations on range of 3-to-5-star reviews and see how much percentage      we can get for both Vine and non-Vine reviews. Here we exactly don’t know about rest of the 50% reviews, what’s their rating.  
   
